@@ -31,7 +31,7 @@ $(document).ready(function() {
         if (!quizOver) {
             value = $("input[type='radio']:checked").val();
             if (value == undefined) {
-                $(document).find(".quizMessage").text("Please select an anser");
+                $(document).find(".quizMessage").text("Please select an answer");
                 $(document).find(".quizMessage").show();
             } else {
                 $(document).find(".quizMessage").hide();

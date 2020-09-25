@@ -75,7 +75,7 @@ p {
     
 }
 
-.questionMessage {
+.quizMessage {
     background-color: peachpuff;
     border-radius: 6px;
     width: auto;
@@ -83,7 +83,7 @@ p {
     margin: auto;
     padding: 2px;
     font-family: sans-serif, serif;
-    color: blue;
+    color: black;
    
 }
 
